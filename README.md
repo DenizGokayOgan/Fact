@@ -24,4 +24,4 @@
         c = (nFak) / (rFak * mines);
         System.out.println("C(n,r) = " +c);
     }
-}
+    }
