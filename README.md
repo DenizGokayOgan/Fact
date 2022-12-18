@@ -1,7 +1,7 @@
 # Fact
-  import java.util.Scanner;
+    import java.util.Scanner;
 
-  public class Main {
+    public class Main {
     public static void main(String[] args) {
         int n,r,nFak=1,rFak=1,mines=1,c;
         int i;
